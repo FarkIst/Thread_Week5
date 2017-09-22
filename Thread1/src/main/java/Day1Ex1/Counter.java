@@ -5,7 +5,7 @@
  */
 
 
-package Thread;
+package Day1Ex1;
 
 /**
  *
